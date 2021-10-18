@@ -22,8 +22,6 @@ namespace DBModel
         {
             if (!optionsBuilder.IsConfigured)
             {
-                //optionsBuilder.UseSqlServer("Server=localhost;user=sa;password=123456;Database=AEMTest");
-                //optionsBuilder.UseSqlServer("Server=10.254.1.45;user=ewartadba;password=eW@rtA2018;Database=eWartaBK");
                 optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=AEMTest;Trusted_Connection=True;MultipleActiveResultSets=true");
             }
         }
