@@ -1,0 +1,9 @@
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\bin\Debug\netcoreapp3.1\DBModel.deps.json
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\bin\Debug\netcoreapp3.1\DBModel.dll
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\bin\Debug\netcoreapp3.1\DBModel.pdb
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.csproj.AssemblyReference.cache
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.AssemblyInfoInputs.cache
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.AssemblyInfo.cs
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.csproj.CoreCompileInputs.cache
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.dll
+C:\Users\faizal\source\repos\AEMTestIV\DBModel\obj\Debug\netcoreapp3.1\DBModel.pdb

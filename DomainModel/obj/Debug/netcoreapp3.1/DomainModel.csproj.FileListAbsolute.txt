@@ -1,0 +1,9 @@
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\faizal\source\repos\AEMTestIV\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
